@@ -13,60 +13,6 @@ This project is a visually engaging website built using **pure HTML and CSS**, d
 * ⚡ Fast Performance (No JavaScript frameworks used)
 * 📱 Responsive Design Structure
 
-📁 Project Structure
-
-├── index.html
-├── styles.css
-├── images/
-│   ├── Img0.png
-│   ├── Img1.jpg
-│   ├── Img2.jpg
-│   ├── Img3.jpg
-│   ├── Img4.jpg
-│   ├── Img5.jpg
-│   ├── Img6.jpg
-│   ├── Img7.jpg
-│   ├── Img8.jpg
-│   ├── Img9.jpg
-│   ├── Img10.jpg
-│   ├── Img11.jpg
-│   ├── Img12.jpg
-│   ├── Img13.jpg
-│   ├── Img14.jpg
-│   └── Img15.jpg
-└── pages/
-    ├── about.html
-    ├── careers.html
-    ├── help.html
-    ├── lifestyle.html
-    ├── press.html
-    ├── racing.html
-    ├── returns.html
-    ├── running.html
-    ├── shipping.html
-    ├── size-guide.html
-    ├── sustainability.html
-    ├── training.html
-    ├── Img0.png
-    ├── Img5.jpg
-    ├── Img6.jpg
-    ├── Img7.jpg
-    ├── Img8.jpg
-    ├── Img9.jpg
-    ├── Img10.jpg
-    ├── Img13.jpg
-    ├── Img14.jpg
-    ├── Img15.jpg
-    ├── Img18.jpg
-    ├── Img23.jpg
-    ├── Img25.jpg
-    ├── Img26.jpg
-    ├── img16.jpg
-    ├── img17.jpg
-    ├── img19.jpg
-    ├── img20.jpg
-    ├── img21.jpg
-    └── img22.jpg
 
 🛠️ Technologies Used
 
